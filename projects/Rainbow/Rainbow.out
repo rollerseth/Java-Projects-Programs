@@ -1,0 +1,30 @@
+Username:  rollers
+Date:      Tue Feb 6 09:29:41 EST 2018
+ 
+*** compiling ***
+--- Running 1.0 ---
+
+Program to calculate the height of a rainbow.
+Program checks that the distance is greater
+than zero.
+Written by Seth Roller.
+You will be asked to enter the distance to the rainbow.
+
+Enter distance: 
+
+Given that the distance to the rainbow is 1.0:
+
+The height of the rainbow is:  0.9109940218479745
+
+--- Running -10 ---
+
+Program to calculate the height of a rainbow.
+Program checks that the distance is greater
+than zero.
+Written by Seth Roller.
+You will be asked to enter the distance to the rainbow.
+
+Enter distance: 
+
+Your distance of -10.0 is not correct. Input a distance that is greater than zero.
+

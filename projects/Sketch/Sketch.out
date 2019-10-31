@@ -1,0 +1,270 @@
+Username:  rollers
+Date:      Mon Feb 26 18:36:23 EST 2018
+ 
+*** Compiling ***
+javac *.java
+--- Running ---
+
+Program to sketch a suspect.
+You will be asked to choose a hairstyle, nose type,
+eye type and mouth type.  Then your sketch will be made.
+Written by Seth Roller.
+
+Please enter a hairstyle:
+        1, for bald;
+        2, for crew-cut;
+        3, for curly;
+        4, for wearing a hat;
+--> 
+
+Please enter a nose type:
+        1, for beady;
+        2, for bug-eyed;
+        3, for glasses;
+        4, for closed;
+--> 
+
+Please enter a eye type:
+        1, for pug;
+        2, for small;
+        3, for medium;
+        4, for large;
+--> 
+
+Please enter a mouth type:
+        1, for puzzled;
+        2, for smiling;
+        3, for bearded;
+        4, for frowning;
+--> 
+
+   -----
+  |     |
+   -----
+ (| . . |)
+  |  ^  |
+  | --- |
+   ----- 
+
+--- Running again ---
+
+Program to sketch a suspect.
+You will be asked to choose a hairstyle, nose type,
+eye type and mouth type.  Then your sketch will be made.
+Written by Seth Roller.
+
+Please enter a hairstyle:
+        1, for bald;
+        2, for crew-cut;
+        3, for curly;
+        4, for wearing a hat;
+--> 
+
+Please enter a nose type:
+        1, for beady;
+        2, for bug-eyed;
+        3, for glasses;
+        4, for closed;
+--> 
+
+Please enter a eye type:
+        1, for pug;
+        2, for small;
+        3, for medium;
+        4, for large;
+--> 
+
+Please enter a mouth type:
+        1, for puzzled;
+        2, for smiling;
+        3, for bearded;
+        4, for frowning;
+--> 
+
+   -----
+  |     |
+ ---------
+ (|-O-O-|)
+  |  >  |
+  | ___ |
+  |/   \|
+   -----  
+
+--- Running again ---
+
+Program to sketch a suspect.
+You will be asked to choose a hairstyle, nose type,
+eye type and mouth type.  Then your sketch will be made.
+Written by Seth Roller.
+
+Please enter a hairstyle:
+        1, for bald;
+        2, for crew-cut;
+        3, for curly;
+        4, for wearing a hat;
+--> 
+
+You have entered 5, please enter
+a number between 1 and 4.
+
+Please enter a hairstyle:
+        1, for bald;
+        2, for crew-cut;
+        3, for curly;
+        4, for wearing a hat;
+--> 
+
+Please enter a nose type:
+        1, for beady;
+        2, for bug-eyed;
+        3, for glasses;
+        4, for closed;
+--> 
+
+Please enter a eye type:
+        1, for pug;
+        2, for small;
+        3, for medium;
+        4, for large;
+--> 
+
+Please enter a mouth type:
+        1, for puzzled;
+        2, for smiling;
+        3, for bearded;
+        4, for frowning;
+--> 
+
+  ???????
+  |     |
+ (| O O |)
+  |  ^  |
+  |\___/|
+   ----- 
+
+--- Running again ---
+
+Program to sketch a suspect.
+You will be asked to choose a hairstyle, nose type,
+eye type and mouth type.  Then your sketch will be made.
+Written by Seth Roller.
+
+Please enter a hairstyle:
+        1, for bald;
+        2, for crew-cut;
+        3, for curly;
+        4, for wearing a hat;
+--> 
+
+Please enter a nose type:
+        1, for beady;
+        2, for bug-eyed;
+        3, for glasses;
+        4, for closed;
+--> 
+
+You have entered 6, please enter
+a number between 1 and 4.
+
+Please enter a nose type:
+        1, for beady;
+        2, for bug-eyed;
+        3, for glasses;
+        4, for closed;
+--> 
+
+Please enter a eye type:
+        1, for pug;
+        2, for small;
+        3, for medium;
+        4, for large;
+--> 
+
+You have entered 6, please enter
+a number between 1 and 4.
+
+Please enter a eye type:
+        1, for pug;
+        2, for small;
+        3, for medium;
+        4, for large;
+--> 
+
+Please enter a mouth type:
+        1, for puzzled;
+        2, for smiling;
+        3, for bearded;
+        4, for frowning;
+--> 
+
+You have entered 6, please enter
+a number between 1 and 4.
+
+Please enter a mouth type:
+        1, for puzzled;
+        2, for smiling;
+        3, for bearded;
+        4, for frowning;
+--> 
+
+You have entered 5, please enter
+a number between 1 and 4.
+
+Please enter a mouth type:
+        1, for puzzled;
+        2, for smiling;
+        3, for bearded;
+        4, for frowning;
+--> 
+
+  *******
+  *     *
+ (|-O-O-|)
+  | /_\ |
+  |||-|||
+   ||||| 
+    |||  
+
+--- Running again ---
+
+Program to sketch a suspect.
+You will be asked to choose a hairstyle, nose type,
+eye type and mouth type.  Then your sketch will be made.
+Written by Seth Roller.
+
+Please enter a hairstyle:
+        1, for bald;
+        2, for crew-cut;
+        3, for curly;
+        4, for wearing a hat;
+--> 
+
+Please enter a nose type:
+        1, for beady;
+        2, for bug-eyed;
+        3, for glasses;
+        4, for closed;
+--> 
+
+Please enter a eye type:
+        1, for pug;
+        2, for small;
+        3, for medium;
+        4, for large;
+--> 
+
+Please enter a mouth type:
+        1, for puzzled;
+        2, for smiling;
+        3, for bearded;
+        4, for frowning;
+--> 
+
+  *******
+  *     *
+ (| O O |)
+  |  >  |
+  |\___/|
+   ----- 
+
+rm -f *.class *~ *#

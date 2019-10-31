@@ -1,0 +1,89 @@
+Username:  rollers
+Date:      Mon Apr 9 19:38:40 EDT 2018
+ 
+*** Compiling ***
+javac *.java
+--- Running Banking ---
+Welcome to Rolling Bank!
+Owned by the magnificent Seth Roller.
+
+Creating a Interest Account: 
+
+Account status is: The Incredible Hulk has balance 50.0
+
+Creating a CD Account: 
+
+Account status is: Nemo has balance 10000.0
+
+Doing 1st monthly update: 
+
+Account status is: The Incredible Hulk has balance 45.02430555555556
+Account status is: Nemo has balance 10115.0
+
+Doing 2nd monthly update: 
+
+Account status is: The Incredible Hulk has balance 40.54376181520062
+Account status is: Nemo has balance 10231.4375
+
+Doing 3rd monthly update: 
+
+Account status is: The Incredible Hulk has balance 36.50909440678517
+Account status is: Nemo has balance 10349.33046875
+
+Depositing $2,000.00 into Hulk's account.
+Account status is: The Incredible Hulk has balance 2036.5090944067852
+
+Withdrawing $3,000.00 from Nemo's account.
+Account status is: Nemo has balance 5279.464375
+
+Doing 4th monthly update: 
+
+Account status is: The Incredible Hulk has balance 2027.499064105455
+Account status is: Nemo has balance 5335.4576796875
+
+Doing 5th monthly update: 
+
+Account status is: The Incredible Hulk has balance 2018.4846539282842
+Account status is: Nemo has balance 5392.150900683594
+
+Doing 6th monthly update: 
+
+Account status is: The Incredible Hulk has balance 2009.465861746166
+Account status is: Nemo has balance 5449.552786942139
+
+Doing 7th monthly update: 
+
+Account status is: The Incredible Hulk has balance 2000.4426854289593
+Account status is: Nemo has balance 5507.672196778916
+
+Doing 8th monthly update: 
+
+Account status is: The Incredible Hulk has balance 1991.4151228454873
+Account status is: Nemo has balance 5566.518099238653
+
+Doing 9th monthly update: 
+
+Account status is: The Incredible Hulk has balance 1982.3831718635372
+Account status is: Nemo has balance 5626.099575479137
+
+Doing 10th monthly update: 
+
+Account status is: The Incredible Hulk has balance 1973.3468303498598
+Account status is: Nemo has balance 5686.425820172626
+
+Doing 11th monthly update: 
+
+Account status is: The Incredible Hulk has balance 1964.3060961701688
+Account status is: Nemo has balance 5747.5061429247835
+
+Doing 12th monthly update: 
+
+Account status is: The Incredible Hulk has balance 1955.2609671891403
+Account status is: Nemo has balance 5809.349969711343
+
+Doing 13th monthly update: 
+
+Account status is: The Incredible Hulk has balance 1946.2114412704127
+Account status is: Nemo has balance 5871.966844332735
+
+rm -f *.class *~ *#

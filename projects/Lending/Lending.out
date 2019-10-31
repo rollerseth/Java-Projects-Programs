@@ -1,0 +1,172 @@
+Username:  rollers
+Date:      Tue Apr 17 09:17:21 EDT 2018
+ 
+*** Running make ***
+javac *.java
+--- Running first file ---
+
+Program to keep track of library books.
+You will enter the name of a  file.
+The program will read this file as the list
+of books already checked out. You will then enter
+a lender code followed by a book description to
+check out or return a book.
+When the program is done, it will write out the 
+current list of checked out books to the original file
+and print a list of the checked out books.
+Written by Seth Roller.
+
+Enter name of input file: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Here is the current list of checked out books:
+
+Lender  Book Desc.  Time
+======  ==========  ====
+ 123    HrryPottr1  1057599096745
+ 456    HrryPottr2  1057599096746
+ 666         satan  1057601408559
+ 777       goodbye  1057601610021
+ 678     HonorCode  1057604336568
+ 678        Hawaii  1057604347161
+ 123    HrryPottr3  1523971042436
+ 456    HrryPottr4  1523971042437
+ 666     satanCode  1523971042437
+
+--- output file 1 is ---
+123 HrryPottr1 1057599096745
+456 HrryPottr2 1057599096746
+666 satan 1057601408559
+777 goodbye 1057601610021
+678 HonorCode 1057604336568
+678 Hawaii 1057604347161
+123 HrryPottr3 1523971042436
+456 HrryPottr4 1523971042437
+666 satanCode 1523971042437
+--- Running Lending ---
+
+Program to keep track of library books.
+You will enter the name of a  file.
+The program will read this file as the list
+of books already checked out. You will then enter
+a lender code followed by a book description to
+check out or return a book.
+When the program is done, it will write out the 
+current list of checked out books to the original file
+and print a list of the checked out books.
+Written by Seth Roller.
+
+Enter name of input file: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+You cannot check out this book.
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Enter 3 digit patron code: 
+Enter 10 digit book description: 
+
+Please enter a number:
+	1, for checking a book out;
+	2, for returning a book;
+	0, to exit and print list;
+--> 
+
+Here is the current list of checked out books:
+
+Lender  Book Desc.  Time
+======  ==========  ====
+ 123    HrryPottr1  1057599096745
+ 456    HrryPottr2  1057599096746
+ 666         satan  1057601408559
+ 777       goodbye  1057601610021
+ 678     HonorCode  1057604336568
+ 678        Hawaii  1057604347161
+ 123    HrryPottr3  1523971042436
+ 456    HrryPottr4  1523971042437
+ 666     satanCode  1523971042437
+ 123    HrryPottr5  1523971042617
+
+--- output file 2 is ---
+123 HrryPottr1 1057599096745
+456 HrryPottr2 1057599096746
+666 satan 1057601408559
+777 goodbye 1057601610021
+678 HonorCode 1057604336568
+678 Hawaii 1057604347161
+123 HrryPottr3 1523971042436
+456 HrryPottr4 1523971042437
+666 satanCode 1523971042437
+123 HrryPottr5 1523971042617
+*** Running make clean ***
+rm -f *.class *~ *#
